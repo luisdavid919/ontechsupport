@@ -198,3 +198,13 @@ body{
 	font-family: 'Fjalla One', sans-serif;
 	font-style: oblique;
 }
+
+#home:hover{
+	color: white;
+	text-shadow: black 5px;
+}
+
+p{
+	text-align: center;
+	font-family: 'Fjalla One', sans-serif;
+}
